@@ -40,7 +40,7 @@ const styles = {
     minHeight: "100vh",
   },
   banner: {
-    backgroundImage: "url(../assets/banner.jpg)", // Replace with your image
+    backgroundImage: "(../assets/banner.jpg)", // Replace with your image
     backgroundSize: "cover",
     backgroundPosition: "center",
     color: "#fff",
