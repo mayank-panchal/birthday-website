@@ -9,7 +9,8 @@ const Gallery = () => {
         {images.map((img, index) => (
           <img
             key={index}
-            src={`./assets/${img}`}
+            // Use the correct absolute path for images in the public folder
+            src={`/assets/${img}`}
             alt={`Memory ${index + 1}`}
             style={styles.image}
           />
