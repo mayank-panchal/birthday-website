@@ -2,7 +2,7 @@
   "name": "birthday-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/mayank-panchal/birthday-website.git",
+  "homepage": "https://mayank-panchal.github.io/birthday-website/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
